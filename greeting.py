@@ -1,0 +1,1 @@
+print("Hello friend Good morning")
